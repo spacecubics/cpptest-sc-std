@@ -1,0 +1,5 @@
+#+title: Test Configuration Files for Parasoft C/C++test
+
+This repository contains test configuration files for Parasoft
+C/C++test used at Space Cubics. Each file is a configuration that can
+be passed to `cpptestcli` using the `-config` command-line parameter.
